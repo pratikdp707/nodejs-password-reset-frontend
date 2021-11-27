@@ -25,7 +25,7 @@ export const Home = (props) => {
         // console.log(responseData);
         //name = responseData.name;
         console.log(name);
-    }, [name]);
+    }, []);
 
     const handleClick = () => {
         localStorage.clear();
