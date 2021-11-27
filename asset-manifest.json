@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nodejs-password-reset-frontend/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/nodejs-password-reset-frontend/static/js/main.3925bfe6.chunk.js",
+    "main.js.map": "/nodejs-password-reset-frontend/static/js/main.3925bfe6.chunk.js.map",
+    "runtime-main.js": "/nodejs-password-reset-frontend/static/js/runtime-main.31f90516.js",
+    "runtime-main.js.map": "/nodejs-password-reset-frontend/static/js/runtime-main.31f90516.js.map",
+    "static/js/2.67c9cdaf.chunk.js": "/nodejs-password-reset-frontend/static/js/2.67c9cdaf.chunk.js",
+    "static/js/2.67c9cdaf.chunk.js.map": "/nodejs-password-reset-frontend/static/js/2.67c9cdaf.chunk.js.map",
+    "index.html": "/nodejs-password-reset-frontend/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/nodejs-password-reset-frontend/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.67c9cdaf.chunk.js.LICENSE.txt": "/nodejs-password-reset-frontend/static/js/2.67c9cdaf.chunk.js.LICENSE.txt",
+    "static/media/log-in.9bde519d.png": "/nodejs-password-reset-frontend/static/media/log-in.9bde519d.png",
+    "static/media/sign-up.d26ef7fc.png": "/nodejs-password-reset-frontend/static/media/sign-up.d26ef7fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31f90516.js",
+    "static/js/2.67c9cdaf.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3925bfe6.chunk.js"
+  ]
+}
